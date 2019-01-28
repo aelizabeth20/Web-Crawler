@@ -6,4 +6,4 @@ website and grab all of the links on that page using regular expressions. These 
 order. The program runs until it has been through every website in the output file. It keeps track of the websites it has already
 seen in a seperate file to eliminate duplicates. It uses a total of 5 threads to accomplish its task.
 
-The idea for this project came from a similiar program written by @srobison12 who wrote it in Golang.
+The idea for this project came from a similiar program written by srobison12 who wrote it in Golang.
